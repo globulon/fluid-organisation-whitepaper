@@ -31,7 +31,7 @@ This model draws on engineering metaphors (CVT, hydrodynamics, mantle convection
 
 ## 📄 File List
 
-- `whitepaper.pdf` – Full whitepaper  
+- `The Fluid Organisation_ A Flywheel of Flow.pdf` – Full whitepaper  
 - `diagrams/` – Supporting visuals: flow model, metric maps  
 - `README.md` – This file
 
