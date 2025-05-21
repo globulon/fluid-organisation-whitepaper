@@ -47,4 +47,4 @@ Marc Daniel Ortega
 ## 💬 Share or Cite
 
 If you reference the model, please credit the author.  
-If you’re applying or adapting the theory in your organisation—I’d love to hear how.
+If you’re applying or adapting the theory in your organisation, I would love to hear how.
