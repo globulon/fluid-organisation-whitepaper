@@ -1,8 +1,7 @@
 {
   "latex-workshop.latex.autoBuild.run": "onSave",
-  "latex-workshop.latex.outDir": "./out",
+  "latex-workshop.latex.outDir": "out",
   "latex-workshop.view.pdf.viewer": "tab",
-  "latex-workshop.synctex.afterBuild.enabled": true,
   "latex-workshop.latex.recipes": [
     {
       "name": "latexmk",
@@ -14,13 +13,13 @@
       "name": "latexmk",
       "command": "latexmk",
       "args": [
-        "-synctex=1",
-        "-interaction=nonstopmode",
-        "-file-line-error",
-        "-pdf",
-        "-outdir=out",
-        "%DOC%"
-      ]
+  "-synctex=1",
+  "-interaction=nonstopmode",
+  "-file-line-error",
+  "-pdf",
+  "-outdir=out",
+  "%DOC%"
+]
     }
   ]
 }
