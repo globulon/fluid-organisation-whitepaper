@@ -14,6 +14,8 @@ Most companies push for uniform motion—synchronised delivery cadences across t
 - **Core**: Stable, reusable infrastructure and platforms  
 - **Flywheel**: The dynamic enablement layer that absorbs, filters, and transduces signal into capability
 
+  ![Concept](images/org.png)
+
 This model draws on engineering metaphors (CVT, hydrodynamics, mantle convection) and applies systems thinking principles to organisational flow.
 
 ---
@@ -22,7 +24,8 @@ This model draws on engineering metaphors (CVT, hydrodynamics, mantle convection
 
 - Why uniform velocity fails and layered motion matters  
 - The role of the Flywheel as a transduction system  
-- Metrics for coherence: Org Re, Shear Index, Absorption Ratio  
+- Metrics for coherence: Org Re, Shear Index, Absorption Ratio
+- Identified Design Patterns
 - Scenarios, playbooks, and triage mechanics  
 - Visual models and feedback loops  
 - A conclusion grounded in Donella Meadows’ thinking
@@ -31,11 +34,14 @@ This model draws on engineering metaphors (CVT, hydrodynamics, mantle convection
 
 ## 📄 File List
 
-- `The Fluid Organisation_ A Flywheel of Flow.pdf` – Full whitepaper  
+- `The Fluid Organisation_ A Flywheel of Flow.pdf` – Full V1 whitepaper
+- `main.tex` the new working latex file 
 - `diagrams/` – Supporting visuals: flow model, metric maps  
 - `README.md` – This file
 
 ---
+## ⚙️ Use Latex to compile the Main file
+
 Compile the latex file using the following command
 
 ```latexmk -pdf -outdir=out main.tex```
