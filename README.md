@@ -36,6 +36,11 @@ This model draws on engineering metaphors (CVT, hydrodynamics, mantle convection
 - `README.md` – This file
 
 ---
+Compile the latex file using the following command
+
+```latexmk -pdf -outdir=out main.tex```
+
+---
 
 ## ✍️ Author
 
